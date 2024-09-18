@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm **Andrew**, a **Computer Science** student at **New Jersey Institute of Technology**, passionate about merging technology with creativity to solve real-world challenges.
+I'm **Andrew**, a senior **Computer Science** student at **New Jersey Institute of Technology**, passionate about merging technology with creativity to solve real-world challenges.
 
 This summer, I had the incredible opportunity to work with NASA, optimizing systems for launching space missions🚀—an experience that truly fueled my love for software engineering and problem-solving. I also delved into AI with Cognizant, where I fine-tuned image classification models, making them smarter and faster. 
 
