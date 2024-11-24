@@ -2,7 +2,7 @@
 
 I'm **Andrew**, a senior **Computer Science** student at **New Jersey Institute of Technology**, passionate about merging technology with creativity to solve real-world challenges.
 
-- 🚀 **Software Engineering Intern at NASA**: Worked on optimizing systems for space mission launches, fueling my passion for software engineering and innovative problem-solving.
+- 🚀 **Software Engineer Intern at NASA**: Worked on optimizing systems for space mission launches, fueling my passion for software engineering and innovative problem-solving.
 - 🤖 **Generative AI Extern at Cognizant**: Fine-tuned image classification models to enhance their efficiency and performance.
 - 🛠️ **Student Technician at NJIT**: Upgraded campus-wide communication systems, boosting operational efficiency by 80% and improving network connectivity in residential dorms.
 - 🌐 **Web & Multimedia Editor at The Vector**: Spearheaded digital strategy, enhancing digital engagement and reaching over 15,000 users by updating the website and social media.
