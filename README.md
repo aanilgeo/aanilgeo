@@ -2,7 +2,7 @@
   <h1>&#128075; Hi, I'm Andrew</h1>
   <h3>&#127891; Computer Science @ New Jersey Institute of Technology</h3>
 
-🦾 Incoming Software Engineer Co-op @ Honeywell<br>
+🦾 Software Engineer Co-op @ Honeywell<br>
 🚀 Former Software Engineer Intern @ NASA Kennedy Space Center<br>
 🤖 Former Generative AI Extern @ Cognizant<br>
 💻 Former Web & Multimedia Editor @ The Vector<br>
